@@ -17,5 +17,6 @@ This repo will contain:
   - vault
 - TLS
 - Timeouts on the rest server
+- Rate Limiting
 - Testing of rest server handlers
 - Authentication and authorization using JWT
