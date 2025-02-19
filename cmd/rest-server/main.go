@@ -1,3 +1,4 @@
+// Package main contains rest server.
 package main
 
 import "fmt"
